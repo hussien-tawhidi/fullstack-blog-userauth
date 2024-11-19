@@ -1,0 +1,266 @@
+2024-11-14T17:51:09.352Z [[32minfo[39m]: Creating blog with title: dfdfdsf
+2024-11-14T17:51:09.576Z [[32minfo[39m]: Blog created successfully with ID: 6736388d40a9a4a4e615a167
+2024-11-14T18:16:28.463Z [[32minfo[39m]: Creating blog with title: right now
+2024-11-14T18:16:28.698Z [[32minfo[39m]: Blog created successfully with ID: 67363e7c0fd18fa5dee2689e
+2024-11-14T19:08:30.161Z [[32minfo[39m]: Creating blog with title: title
+2024-11-14T19:08:30.498Z [[32minfo[39m]: Blog created successfully with ID: 67364aae0fd18fa5dee268c4
+2024-11-14T19:13:52.216Z [[32minfo[39m]: Creating blog with title: this title
+2024-11-14T19:13:52.224Z [[31merror[39m]: Unexpected error: Blog validation failed: createdBy.avatar: Path `createdBy.avatar` is required., createdBy.email: Path `createdBy.email` is required., createdBy.name: Path `createdBy.name` is required.
+2024-11-14T19:14:35.045Z [[32minfo[39m]: Creating blog with title: this title
+2024-11-14T19:14:35.048Z [[31merror[39m]: Unexpected error: Blog validation failed: createdBy.avatar: Path `createdBy.avatar` is required., createdBy.email: Path `createdBy.email` is required., createdBy.name: Path `createdBy.name` is required.
+2024-11-14T19:15:07.439Z [[32minfo[39m]: Creating blog with title: this title
+2024-11-14T19:15:07.457Z [[31merror[39m]: Unexpected error: Blog validation failed: createdBy.email: Path `createdBy.email` is required., createdBy.name: Path `createdBy.name` is required.
+2024-11-14T19:20:08.083Z [[32minfo[39m]: Creating blog with title: this title
+2024-11-14T19:20:08.086Z [[31merror[39m]: Unexpected error: Blog validation failed: createdBy.email: Path `createdBy.email` is required., createdBy.name: Path `createdBy.name` is required.
+2024-11-14T19:23:43.523Z [[32minfo[39m]: Creating blog with title: this title
+2024-11-14T19:23:43.528Z [[31merror[39m]: Unexpected error: Blog validation failed: createdBy.email: Path `createdBy.email` is required., createdBy.name: Path `createdBy.name` is required.
+2024-11-14T19:24:42.093Z [[32minfo[39m]: Creating blog with title: title
+2024-11-14T19:24:43.564Z [[32minfo[39m]: Blog created successfully with ID: 67364e7a7b7279d3494f73c0
+2024-11-14T19:41:32.677Z [[32minfo[39m]: Creating blog with title: dfsdf
+2024-11-14T19:41:32.684Z [[31merror[39m]: Unexpected error: Blog validation failed: email: Path `email` is required.
+2024-11-14T19:42:27.325Z [[32minfo[39m]: Creating blog with title: asdfasdfasd
+2024-11-14T19:42:28.708Z [[32minfo[39m]: Blog created successfully with ID: 673652a35ba7f113ab648dc9
+2024-11-14T20:08:49.461Z [[32minfo[39m]: Creating blog with title: title
+2024-11-14T20:08:50.960Z [[32minfo[39m]: Blog created successfully with ID: 673658d16da295fc7dcff2f1
+2024-11-14T20:18:48.417Z [[32minfo[39m]: Creating blog with title: new test
+2024-11-14T20:18:48.691Z [[32minfo[39m]: Blog created successfully with ID: 67365b286da295fc7dcff2f6
+2024-11-14T20:20:16.714Z [[32minfo[39m]: Creating blog with title: title
+2024-11-14T20:20:18.205Z [[32minfo[39m]: Blog created successfully with ID: 67365b800ad8e96ef0d16e53
+2024-11-14T20:26:43.840Z [[32minfo[39m]: Creating blog with title: aererse
+2024-11-14T20:26:44.268Z [[32minfo[39m]: Blog created successfully with ID: 67365d030ad8e96ef0d16e58
+2024-11-14T20:28:28.028Z [[32minfo[39m]: Creating blog with title: title
+2024-11-14T20:28:28.343Z [[32minfo[39m]: Blog created successfully with ID: 67365d6c86c145a0ef3b7070
+2024-11-14T20:32:14.431Z [[32minfo[39m]: Creating blog with title: rsfasdf
+2024-11-14T20:32:14.644Z [[32minfo[39m]: Blog created successfully with ID: 67365e4e86c145a0ef3b7074
+2024-11-15T07:26:09.816Z [[32minfo[39m]: User created successfully: 6736f78f553805482f84dcf5
+2024-11-15T07:48:33.631Z [[31merror[39m]: Error in credentials provider: Invalid password
+2024-11-15T07:52:30.839Z [[31merror[39m]: Error in credentials provider: Invalid password
+2024-11-15T08:06:04.342Z [[31merror[39m]: Error in credentials provider: Invalid password
+2024-11-15T08:06:40.354Z [[31merror[39m]: Error in credentials provider: Invalid password
+2024-11-15T08:06:45.017Z [[31merror[39m]: Error in credentials provider: Invalid password
+2024-11-15T08:07:30.836Z [[31merror[39m]: Error in credentials provider: Invalid password
+2024-11-15T08:08:29.725Z [[31merror[39m]: Error in credentials provider: Invalid password
+2024-11-15T08:16:27.647Z [[31merror[39m]: Error in credentials provider: Invalid password
+2024-11-15T08:19:41.883Z [[31merror[39m]: Error in credentials provider: Invalid password
+2024-11-15T08:20:58.473Z [[31merror[39m]: Error in credentials provider: Invalid password
+2024-11-15T08:22:15.769Z [[31merror[39m]: Error in credentials provider: Invalid password
+2024-11-15T08:23:12.583Z [[31merror[39m]: Error in credentials provider: Invalid password
+2024-11-15T08:24:35.453Z [[31merror[39m]: Error in credentials provider: Invalid password
+2024-11-15T08:26:21.296Z [[31merror[39m]: Error in credentials provider: Invalid password
+2024-11-15T08:31:55.879Z [[31merror[39m]: Error in credentials provider: Invalid password
+2024-11-15T08:32:29.344Z [[31merror[39m]: Error in credentials provider: Invalid password
+2024-11-15T08:37:36.669Z [[31merror[39m]: Error in credentials provider: Invalid password
+2024-11-15T08:41:46.550Z [[31merror[39m]: Error in credentials provider: Invalid passwordddddd
+2024-11-15T08:53:24.813Z [[31merror[39m]: Error in credentials provider: User not found
+2024-11-15T08:53:28.641Z [[31merror[39m]: Error in credentials provider: User not found
+2024-11-15T09:03:29.116Z [[31merror[39m]: Error in credentials provider: Invalid password
+2024-11-15T09:03:54.105Z [[31merror[39m]: Error in credentials provider: Invalid password
+2024-11-15T09:04:49.613Z [[31merror[39m]: Error in credentials provider: Invalid password
+2024-11-15T09:05:39.877Z [[31merror[39m]: Error in credentials provider: Invalid password
+2024-11-15T09:06:10.287Z [[31merror[39m]: Error in credentials provider: Invalid password
+2024-11-15T09:09:45.202Z [[31merror[39m]: Error in credentials provider: Invalid password
+2024-11-15T09:10:34.978Z [[31merror[39m]: Error in credentials provider: Invalid password
+2024-11-15T09:13:58.782Z [[31merror[39m]: Error in credentials provider: Invalid password
+2024-11-15T09:19:40.835Z [[31merror[39m]: Error in credentials provider: User not found
+2024-11-15T09:20:52.938Z [[31merror[39m]: Error in credentials provider: User not found
+2024-11-15T09:23:08.083Z [[31merror[39m]: Error in credentials provider: Invalid password
+2024-11-15T09:24:47.860Z [[31merror[39m]: Error in credentials provider: Invalid password
+2024-11-15T09:25:48.402Z [[31merror[39m]: Error in credentials provider: Invalid password
+2024-11-15T09:29:11.742Z [[31merror[39m]: Error in credentials provider: Invalid password
+2024-11-15T09:29:36.081Z [[31merror[39m]: Error in credentials provider: User not found
+2024-11-15T09:31:20.686Z [[31merror[39m]: Error in credentials provider: Invalid password
+2024-11-15T09:32:21.666Z [[31merror[39m]: Error in credentials provider: Invalid password
+2024-11-15T09:33:35.768Z [[31merror[39m]: Error in credentials provider: Invalid password
+2024-11-15T09:37:40.549Z [[31merror[39m]: Error in credentials provider: Invalid password
+2024-11-15T09:38:13.552Z [[31merror[39m]: Error in credentials provider: Invalid password
+2024-11-15T09:38:15.826Z [[31merror[39m]: Error in credentials provider: Invalid password
+2024-11-15T09:38:28.555Z [[31merror[39m]: Error in credentials provider: Invalid password
+2024-11-15T11:31:22.938Z [[32minfo[39m]: Creating blog with title: title
+2024-11-15T11:31:23.201Z [[32minfo[39m]: Blog created successfully with ID: 6737310a1f817a0549143877
+2024-11-15T11:34:44.349Z [[32minfo[39m]: Creating blog with title: title
+2024-11-15T11:34:44.584Z [[32minfo[39m]: Blog created successfully with ID: 673731d41f817a054914387b
+2024-11-15T11:35:47.534Z [[32minfo[39m]: Creating blog with title: title
+2024-11-15T11:35:47.779Z [[32minfo[39m]: Blog created successfully with ID: 673732131f817a054914387f
+2024-11-15T11:37:34.764Z [[32minfo[39m]: Creating blog with title: title
+2024-11-15T11:37:34.992Z [[32minfo[39m]: Blog created successfully with ID: 6737327e1f817a0549143883
+2024-11-15T11:54:33.313Z [[32minfo[39m]: Creating blog with title: title image
+2024-11-15T11:54:33.316Z [[31merror[39m]: Unexpected error: file.arrayBuffer is not a function
+2024-11-15T11:57:28.324Z [[31merror[39m]: Unexpected error: file.arrayBuffer is not a function
+2024-11-16T07:46:41.149Z [[31merror[39m]: Error fetching blog posts: Operation `blogs.find()` buffering timed out after 10000ms
+2024-11-16T07:48:30.323Z [[31merror[39m]: Error fetching blog posts: Operation `blogs.find()` buffering timed out after 10000ms
+2024-11-16T07:49:22.326Z [[31merror[39m]: Error fetching blog posts: Operation `blogs.find()` buffering timed out after 10000ms
+2024-11-16T07:49:32.492Z [[31merror[39m]: Error fetching blog posts: Operation `blogs.find()` buffering timed out after 10000ms
+2024-11-16T07:50:12.089Z [[31merror[39m]: Error fetching blog posts: Operation `blogs.find()` buffering timed out after 10000ms
+2024-11-16T20:27:08.092Z [[31merror[39m]: Unexpected error: Cloudinary configuration is missing
+2024-11-16T20:30:03.271Z [[31merror[39m]: Unexpected error: Blog validation failed: image: Cast to string failed for value "{
+  asset_id: '6944a0f39efb15033bd7a766e0166d1b',
+  public_id: 'blogs/ekuwrlnxmttkz6lm5vim',
+  version: 1731789002,
+  version_id: '1e3026a307db92ae8f442d0500b9e2a1',
+  signature: 'e392f7655d5d7959f296212598e3b772354f2e10',
+  width: 7360,
+  height: 4912,
+  format: 'jpg',
+  resource_type: 'image',
+  created_at: '2024-11-16T20:30:02Z',
+  tags: [],
+  bytes: 7554817,
+  type: 'upload',
+  etag: '38eebdb61aae4bdaa623f1d837465122',
+  placeholder: false,
+  url: 'http://res.cloudinary.com/dvb6lgat3/image/upload/v1731789002/blogs/ekuwrlnxmttkz6lm5vim.jpg',
+  secure_url: 'https://res.cloudinary.com/dvb6lgat3/image/upload/v1731789002/blogs/ekuwrlnxmttkz6lm5vim.jpg',
+  folder: 'blogs',
+  access_mode: 'public',
+  original_filename: 'jonatan-pie-3N5ccOE3wGg-unsplash'
+}" (type Object) at path "image"
+2024-11-17T05:22:00.802Z [[32minfo[39m]: Blog created successfully: 67397d78579ffbf943a83741
+2024-11-17T05:27:54.802Z [[32minfo[39m]: Blog created successfully: 67397eda579ffbf943a83743
+2024-11-17T05:58:29.415Z [[32minfo[39m]: Blog created successfully: 67398603579ffbf943a83745
+2024-11-17T06:01:34.499Z [[32minfo[39m]: Blog created successfully: 673986be579ffbf943a83747
+2024-11-17T06:11:25.667Z [[32minfo[39m]: Blog created successfully: 6739890c579ffbf943a83749
+2024-11-17T06:17:38.013Z [[32minfo[39m]: Blog created successfully: 67398a81579ffbf943a8374b
+2024-11-17T06:20:43.187Z [[32minfo[39m]: Blog created successfully: 67398b3a579ffbf943a8374d
+2024-11-17T06:43:40.749Z [[32minfo[39m]: Blog created successfully: 6739909c6e45ca0ec82cb1d9
+2024-11-17T07:08:59.319Z [[32minfo[39m]: Blog created successfully: 6739968b6e45ca0ec82cb1e7
+2024-11-17T07:09:12.923Z [[32minfo[39m]: Blog created successfully: 673996986e45ca0ec82cb1e9
+2024-11-17T07:09:47.781Z [[32minfo[39m]: Blog created successfully: 673996bb6e45ca0ec82cb1eb
+2024-11-17T07:12:27.120Z [[31merror[39m]: Error in credentials provider: Invalid password
+2024-11-17T07:23:28.110Z [[32minfo[39m]: Blog created successfully: 673999ef6e45ca0ec82cb206
+2024-11-17T07:39:46.915Z [[31merror[39m]: Error in credentials provider: Invalid password
+2024-11-17T07:40:55.116Z [[32minfo[39m]: Blog created successfully: 67399e066e45ca0ec82cb22c
+2024-11-17T07:41:12.272Z [[32minfo[39m]: Blog created successfully: 67399e186e45ca0ec82cb22e
+2024-11-17T08:56:14.538Z [[32minfo[39m]: Blog created successfully: 6739afac6e45ca0ec82cb26c
+2024-11-17T11:15:07.167Z [[32minfo[39m]: Blog created successfully: 6739d039970e1bf3d093bfaf
+2024-11-17T11:21:31.334Z [[32minfo[39m]: Blog created successfully: 6739d1b9169cac06ffe72da5
+2024-11-17T11:32:13.519Z [[32minfo[39m]: Blog created successfully: 6739d43b169cac06ffe72da8
+2024-11-17T15:35:29.365Z [[32minfo[39m]: Blog created successfully: 673a0d4191787565389882df
+2024-11-17T16:39:31.650Z [[32minfo[39m]: Blog created successfully: 673a1c4391787565389882f9
+2024-11-17T16:49:22.540Z [[32minfo[39m]: Blog created successfully: 673a1e929178756538988319
+2024-11-17T18:43:55.496Z [[32minfo[39m]: Comment added to blog: 673a1e929178756538988319
+2024-11-17T18:44:19.721Z [[32minfo[39m]: Comment added to blog: 673a1e929178756538988319
+2024-11-17T19:13:33.582Z [[31merror[39m]: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Blog"
+2024-11-17T19:13:34.445Z [[31merror[39m]: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Blog"
+2024-11-17T19:15:39.168Z [[31merror[39m]: Unexpected error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Blog"
+2024-11-17T19:15:39.534Z [[31merror[39m]: Unexpected error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Blog"
+2024-11-17T19:18:05.323Z [[31merror[39m]: Unexpected error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Blog"
+2024-11-17T19:18:05.549Z [[31merror[39m]: Unexpected error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Blog"
+2024-11-17T19:19:45.295Z [[31merror[39m]: Unexpected error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Blog"
+2024-11-17T19:19:45.519Z [[31merror[39m]: Unexpected error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Blog"
+2024-11-17T19:23:48.071Z [[31merror[39m]: Unexpected error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Blog"
+2024-11-17T19:23:48.291Z [[31merror[39m]: Unexpected error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Blog"
+2024-11-17T19:24:42.192Z [[32minfo[39m]: Comment added to blog: 673a1e929178756538988319
+2024-11-17T19:25:37.961Z [[31merror[39m]: Unexpected error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Blog"
+2024-11-17T19:25:38.190Z [[31merror[39m]: Unexpected error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Blog"
+2024-11-17T19:26:15.222Z [[31merror[39m]: Unexpected error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Blog"
+2024-11-17T19:26:15.541Z [[31merror[39m]: Unexpected error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Blog"
+2024-11-17T19:26:57.937Z [[31merror[39m]: Unexpected error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Blog"
+2024-11-17T19:26:58.190Z [[31merror[39m]: Unexpected error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Blog"
+2024-11-17T19:28:26.670Z [[31merror[39m]: Unexpected error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Blog"
+2024-11-17T19:28:26.944Z [[31merror[39m]: Unexpected error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Blog"
+2024-11-17T19:28:48.455Z [[31merror[39m]: Unexpected error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Blog"
+2024-11-17T19:28:48.712Z [[31merror[39m]: Unexpected error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Blog"
+2024-11-17T19:29:01.763Z [[31merror[39m]: Unexpected error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Blog"
+2024-11-17T19:29:02.002Z [[31merror[39m]: Unexpected error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Blog"
+2024-11-17T19:29:23.966Z [[31merror[39m]: Unexpected error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Blog"
+2024-11-17T19:29:24.226Z [[31merror[39m]: Unexpected error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Blog"
+2024-11-17T19:29:49.798Z [[31merror[39m]: Unexpected error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Blog"
+2024-11-17T19:29:50.049Z [[31merror[39m]: Unexpected error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Blog"
+2024-11-17T19:30:28.229Z [[31merror[39m]: Unexpected error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Blog"
+2024-11-17T19:30:28.540Z [[31merror[39m]: Unexpected error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Blog"
+2024-11-17T19:30:46.013Z [[31merror[39m]: Unexpected error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Blog"
+2024-11-17T19:30:46.373Z [[31merror[39m]: Unexpected error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Blog"
+2024-11-17T19:31:08.221Z [[31merror[39m]: Unexpected error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Blog"
+2024-11-17T19:31:08.466Z [[31merror[39m]: Unexpected error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Blog"
+2024-11-17T19:31:41.678Z [[31merror[39m]: Unexpected error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Blog"
+2024-11-17T19:31:41.925Z [[31merror[39m]: Unexpected error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Blog"
+2024-11-17T19:32:00.569Z [[31merror[39m]: Unexpected error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Blog"
+2024-11-17T19:32:00.871Z [[31merror[39m]: Unexpected error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Blog"
+2024-11-17T19:39:42.936Z [[31merror[39m]: Unexpected error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Blog"
+2024-11-17T19:39:44.416Z [[31merror[39m]: Unexpected error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Blog"
+2024-11-17T19:39:46.791Z [[31merror[39m]: Unexpected error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Blog"
+2024-11-17T19:39:47.022Z [[31merror[39m]: Unexpected error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Blog"
+2024-11-17T19:40:10.235Z [[31merror[39m]: Unexpected error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Blog"
+2024-11-17T19:40:11.431Z [[31merror[39m]: Unexpected error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Blog"
+2024-11-17T19:40:13.817Z [[31merror[39m]: Unexpected error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Blog"
+2024-11-17T19:40:14.004Z [[31merror[39m]: Unexpected error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Blog"
+2024-11-17T19:43:28.363Z [[31merror[39m]: Unexpected error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Blog"
+2024-11-17T19:43:28.792Z [[31merror[39m]: Unexpected error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Blog"
+2024-11-17T19:43:31.632Z [[31merror[39m]: Unexpected error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Blog"
+2024-11-17T19:43:31.814Z [[31merror[39m]: Unexpected error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Blog"
+2024-11-17T19:43:45.047Z [[31merror[39m]: Unexpected error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Blog"
+2024-11-17T19:43:45.351Z [[31merror[39m]: Unexpected error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Blog"
+2024-11-17T19:43:51.667Z [[31merror[39m]: Unexpected error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Blog"
+2024-11-17T19:43:52.007Z [[31merror[39m]: Unexpected error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Blog"
+2024-11-17T19:45:31.863Z [[31merror[39m]: Unexpected error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Blog"
+2024-11-17T19:45:32.123Z [[31merror[39m]: Unexpected error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Blog"
+2024-11-17T19:47:19.115Z [[31merror[39m]: Unexpected error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Blog"
+2024-11-17T19:47:19.611Z [[31merror[39m]: Unexpected error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Blog"
+2024-11-17T19:48:16.775Z [[31merror[39m]: Unexpected error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Blog"
+2024-11-17T19:48:17.065Z [[31merror[39m]: Unexpected error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Blog"
+2024-11-17T19:50:04.166Z [[31merror[39m]: Unexpected error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Blog"
+2024-11-17T19:50:04.518Z [[31merror[39m]: Unexpected error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Blog"
+2024-11-17T19:56:37.271Z [[31merror[39m]: Unexpected error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Blog"
+2024-11-17T19:56:37.519Z [[31merror[39m]: Unexpected error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Blog"
+2024-11-17T19:58:02.638Z [[31merror[39m]: Unexpected error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Blog"
+2024-11-17T19:58:03.111Z [[31merror[39m]: Unexpected error: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "Blog"
+2024-11-17T20:00:23.430Z [[32minfo[39m]: Comment added to blog: 673a1c4391787565389882f9
+2024-11-17T20:00:33.108Z [[32minfo[39m]: Comment added to blog: 673a1c4391787565389882f9
+2024-11-17T20:03:16.949Z [[32minfo[39m]: Comment added to blog: 673a1e929178756538988319
+2024-11-17T21:30:59.994Z [[32minfo[39m]: Comment added to blog: 673a1e929178756538988319
+2024-11-18T05:25:34.356Z [[31merror[39m]: Error in credentials provider: Invalid password
+2024-11-18T06:36:12.779Z [[32minfo[39m]: Comment added to blog: 673a0d4191787565389882df
+2024-11-18T06:37:20.657Z [[32minfo[39m]: Comment added to blog: 673a0d4191787565389882df
+2024-11-18T07:07:45.634Z [[32minfo[39m]: Comment added to blog: 673a1c4391787565389882f9
+2024-11-18T10:35:35.598Z [[32minfo[39m]: Comment added to blog: 673a0d4191787565389882df
+2024-11-18T12:05:32.926Z [[32minfo[39m]: Blog updated successfully: 673a1c4391787565389882f9
+2024-11-18T12:06:38.737Z [[32minfo[39m]: Blog updated successfully: 673a1c4391787565389882f9
+2024-11-18T12:07:55.322Z [[32minfo[39m]: Blog updated successfully: 673a1c4391787565389882f9
+2024-11-18T12:08:41.175Z [[32minfo[39m]: Blog updated successfully: 673a1c4391787565389882f9
+2024-11-18T12:08:58.937Z [[32minfo[39m]: Blog updated successfully: 673a1c4391787565389882f9
+2024-11-18T12:10:07.639Z [[32minfo[39m]: Blog updated successfully: 673a1c4391787565389882f9
+2024-11-18T12:10:22.754Z [[32minfo[39m]: Blog updated successfully: 673a1c4391787565389882f9
+2024-11-18T12:10:48.180Z [[32minfo[39m]: Blog updated successfully: 673a1c4391787565389882f9
+2024-11-18T12:13:00.764Z [[32minfo[39m]: Blog updated successfully: 673a1c4391787565389882f9
+2024-11-18T12:14:53.645Z [[32minfo[39m]: Blog updated successfully: 673a1c4391787565389882f9
+2024-11-18T12:15:20.330Z [[32minfo[39m]: Blog updated successfully: 673a1c4391787565389882f9
+2024-11-18T12:18:17.172Z [[32minfo[39m]: Blog updated successfully: 673a1c4391787565389882f9
+2024-11-18T12:18:21.137Z [[32minfo[39m]: Blog updated successfully: 673a1c4391787565389882f9
+2024-11-18T12:19:03.924Z [[32minfo[39m]: Blog updated successfully: 673a1c4391787565389882f9
+2024-11-18T12:23:22.243Z [[32minfo[39m]: Blog updated successfully: 673a1c4391787565389882f9
+2024-11-18T13:08:30.411Z [[32minfo[39m]: Blog updated successfully: 673a0d4191787565389882df
+2024-11-18T13:09:28.898Z [[32minfo[39m]: Blog updated successfully: 673a0d4191787565389882df
+2024-11-18T20:20:53.995Z [[32minfo[39m]: Blog created successfully: 673ba1a5e593f3c68526359b
+2024-11-18T20:27:47.134Z [[32minfo[39m]: Blog with id: 673ba1a5e593f3c68526359b deleted successfully.
+2024-11-18T20:28:39.907Z [[32minfo[39m]: Blog created successfully: 673ba377e593f3c6852635ab
+2024-11-18T20:28:47.941Z [[32minfo[39m]: Blog with id: 673ba377e593f3c6852635ab deleted successfully.
+2024-11-18T20:29:48.243Z [[32minfo[39m]: Blog created successfully: 673ba3bbe593f3c6852635b4
+2024-11-18T20:29:55.207Z [[32minfo[39m]: Blog with id: 673ba3bbe593f3c6852635b4 deleted successfully.
+2024-11-18T20:32:17.043Z [[32minfo[39m]: Blog created successfully: 673ba450e593f3c6852635bf
+2024-11-18T20:32:23.793Z [[32minfo[39m]: Blog with id: 673ba450e593f3c6852635bf deleted successfully.
+2024-11-18T20:49:18.935Z [[32minfo[39m]: Blog created successfully: 673ba84ee593f3c685263615
+2024-11-18T20:49:31.955Z [[32minfo[39m]: Blog with ID: 673ba84ee593f3c685263615 deleted successfully.
+2024-11-19T07:26:29.086Z [[32minfo[39m]: User created successfully: 673c3da1e41d6927c9096cfc
+2024-11-19T07:26:34.083Z [[31merror[39m]: Error in credentials provider: Invalid password
+2024-11-19T07:26:44.024Z [[31merror[39m]: Error in credentials provider: Invalid password
+2024-11-19T07:27:47.343Z [[33mwarn[39m]: User with email hussientawhidi710@gmail.com already exists
+2024-11-19T07:28:21.255Z [[32minfo[39m]: User created successfully: 673c3e12e41d6927c9096d02
+2024-11-19T07:30:59.531Z [[31merror[39m]: Error in credentials provider: User not found
+2024-11-19T07:31:08.902Z [[31merror[39m]: Error in credentials provider: User not found
+2024-11-19T07:33:36.241Z [[31merror[39m]: Error in credentials provider: User not found
+2024-11-19T07:34:02.381Z [[32minfo[39m]: User created successfully: 673c3f66e41d6927c9096d20
+2024-11-19T07:36:35.338Z [[32minfo[39m]: User created successfully: 673c400043d852f24d45aa6b
+2024-11-19T07:39:48.682Z [[32minfo[39m]: User created successfully: 673c40c02e3fbbb15d72ec5b
+2024-11-19T07:41:24.549Z [[31merror[39m]: Error in credentials provider: User not found
+2024-11-19T07:41:32.641Z [[31merror[39m]: Error in credentials provider: User not found
+2024-11-19T07:42:59.796Z [[31merror[39m]: Error in credentials provider: User not found
+2024-11-19T08:01:32.394Z [[31merror[39m]: Error in credentials provider: User not found
+2024-11-19T08:02:09.448Z [[32minfo[39m]: User created successfully: 673c45fe2e3fbbb15d72ec70
+2024-11-19T08:45:54.812Z [[32minfo[39m]: User created successfully: 673c50402e3fbbb15d72ecdb
+2024-11-19T08:46:15.304Z [[31merror[39m]: Error in credentials provider: User not found
+2024-11-19T08:48:45.005Z [[32minfo[39m]: User created successfully: 673c50ea2e3fbbb15d72ece4
+2024-11-19T08:50:21.358Z [[32minfo[39m]: User created successfully: 673c514a63c1342fa6d4ee40
+2024-11-19T09:21:08.565Z [[32minfo[39m]: Blog created successfully: 673c58844e2c0330d4d237e2
+2024-11-19T09:33:02.037Z [[32minfo[39m]: User created successfully: 673c5b4b2c33507dce451a2c
+2024-11-19T10:46:33.621Z [[32minfo[39m]: User 673c5b4b2c33507dce451a2c liked the blog post with ID 673a1c4391787565389882f9.
+2024-11-19T10:46:57.789Z [[32minfo[39m]: User 673c5b4b2c33507dce451a2c liked the blog post with ID 673a0d4191787565389882df.
